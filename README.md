@@ -1,4 +1,9 @@
-### Hi there 👋
+# Minenik2
+Welcome to my profile 👋
+
+<img src="https://count.getloli.com/get/@minenik2?theme=rule34" alt="Minenik2" />
+
+
 
 <!--
 **Minenik2/Minenik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
