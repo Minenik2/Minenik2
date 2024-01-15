@@ -3,7 +3,9 @@ Welcome to my profile 👋
 
 <img src="https://count.getloli.com/get/@minenik2?theme=rule34" alt="Minenik2" />
 
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=11161319946">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=11161319946" alt="Data Card for Spotify">
+</a>
 
 <!--
 **Minenik2/Minenik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
