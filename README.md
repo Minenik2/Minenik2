@@ -21,7 +21,14 @@ Welcome to my profile 👋
 ![C Sharp](https://img.shields.io/badge/C_Sharp-1C1C1C?style=flat-square&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
 
+
+
+<div align="center">
+
 <img align="center" width=45% src="https://i.pinimg.com/originals/c7/94/be/c794be5349bc93ec47a2a17daab1b279.gif"><br><br>
+
+</div>
+
 <!--
 **Minenik2/Minenik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
