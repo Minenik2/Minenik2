@@ -16,10 +16,10 @@ Welcome to my profile 👋
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![C](https://img.shields.io/badge/C-1C1C1C?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-1C1C1C?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-1C1C1C?style=flat-square)
+![Java](https://img.shields.io/badge/Java-1C1C1C?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1C1C1C?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-1C1C1C?style=flat-square&logo=csharp&logoColor=239120)
-![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-1C1C1C?style=flat-square&logo=unrealengine&logoColor=3776AB)
 
 
