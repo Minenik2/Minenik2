@@ -3,6 +3,12 @@ Welcome to my profile 👋
 
 <img src="https://count.getloli.com/get/@minenik2?theme=rule34" alt="Minenik2" />
 
+## Currently Learning 📖
+- Unreal Engine
+  - Motion Tracking (Integration with Rokoko Studio & Motion Suits)
+- Machine Learning
+- Database Management Systems (DBMS)
+
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=11161319946">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=11161319946" alt="Data Card for Spotify">
 </a>
@@ -28,18 +34,3 @@ Welcome to my profile 👋
 <img align="center" width=45% src="https://i.pinimg.com/originals/c7/94/be/c794be5349bc93ec47a2a17daab1b279.gif"><br><br>
 
 </div>
-
-<!--
-**Minenik2/Minenik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
