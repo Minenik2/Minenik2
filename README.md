@@ -15,6 +15,8 @@ Welcome to my profile 👋
 
 ## Tools and Technologies 🛠
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![HTML5](https://img.shields.io/badge/HTML5-1C1C1C?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=F7DF1E)
